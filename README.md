@@ -1,2 +1,4 @@
 # hello-world
-Just fooling around!
+Just fooling up and down!
+
+Committed!
